@@ -62,6 +62,5 @@ def for_iterator(number_of_times)
   for amount in total 
     puts phrase
   end
-  
 end
 
