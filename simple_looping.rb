@@ -59,7 +59,7 @@ def for_iterator(number_of_times)
   
   total = 1..number_of_times
   
-  for amount in total 
+  for amount in total do
     puts phrase
   end
 end
